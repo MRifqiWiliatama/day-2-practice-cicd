@@ -1,5 +1,5 @@
 # Demo berbagai trigger. (Hanya bahan belajar — job-nya cuma echo.)
-name: Triggers Demo
+name: VErsion
 
 on:
   # Case A: setiap push ke branch tertentu
